@@ -1,3 +1,17 @@
-# Otp-Generator
-A GUI-based OTP Generator developed in Python using Tkinter. This application generates secure random OTPs with a simple and user-friendly graphical interface.
-https://github.com/gkv20071999-alt/Otp-Generator/blob/main/Screenshot%202026-06-07%20140323.png?raw=true
+# GUI OTP Generator
+
+A Python-based GUI OTP Generator developed using Tkinter. The application generates secure and random One-Time Passwords (OTPs) through a simple and interactive graphical user interface.
+
+## Features
+- Generate Random OTPs
+- User-Friendly GUI
+- Fast and Secure OTP Generation
+- Lightweight and Easy to Use
+
+## Technologies Used
+- Python
+- Tkinter
+- Random Module
+
+## Author
+Gajendra Verma
